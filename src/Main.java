@@ -21,7 +21,6 @@ public class Main {
                 nstr= ch + nstr;
             }
             System.out.println("Reversed word: "+ nstr);
-            System.out.println("Third commit change: ");
 
         }
     }
