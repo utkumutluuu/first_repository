@@ -1,4 +1,4 @@
-import java.io.*;
+
 import java.util.Scanner;
 public class Main {
 
@@ -18,8 +18,10 @@ public class Main {
             for (int i=0; i<str.length(); i++)
             {
                 ch= str.charAt(i);
-                nstr= ch+nstr;
+                nstr= ch + nstr;
             }
             System.out.println("Reversed word: "+ nstr);
+            System.out.println("Third commit change: ");
+
         }
     }
